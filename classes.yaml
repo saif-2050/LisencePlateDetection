@@ -1,0 +1,5 @@
+classes:
+  - name: number_plate
+    color: '#fc0209'
+  - name: plate
+    color: '#fd2727'
